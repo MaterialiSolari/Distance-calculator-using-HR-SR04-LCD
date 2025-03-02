@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "E:/Matlab alternative"
+		},
+		{
+			"name": "arduinoLeds",
+			"path": "../Documents/PlatformIO/Projects/arduinoLeds"
+		},
+		{
+			"name": "CAN bus",
+			"path": "../Documents/PlatformIO/Projects/CAN bus"
+		}
+	],
+	"settings": {}
+}
